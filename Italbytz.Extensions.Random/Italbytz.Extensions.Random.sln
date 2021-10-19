@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italbytz.Extensions.Random", "Italbytz.Extensions.Random\Italbytz.Extensions.Random.csproj", "{838354B5-2ABD-434E-93C8-49E340B4E5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italbytz.Extensions.Random.Tests", "Italbytz.Extensions.Random.Tests\Italbytz.Extensions.Random.Tests.csproj", "{EFA14FE7-A21E-4121-B91C-1EC14BAC92B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838354B5-2ABD-434E-93C8-49E340B4E5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838354B5-2ABD-434E-93C8-49E340B4E5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838354B5-2ABD-434E-93C8-49E340B4E5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838354B5-2ABD-434E-93C8-49E340B4E5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA14FE7-A21E-4121-B91C-1EC14BAC92B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA14FE7-A21E-4121-B91C-1EC14BAC92B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA14FE7-A21E-4121-B91C-1EC14BAC92B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA14FE7-A21E-4121-B91C-1EC14BAC92B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22572A78-1DB0-4E12-8741-1603CF31EE16}
+	EndGlobalSection
+EndGlobal

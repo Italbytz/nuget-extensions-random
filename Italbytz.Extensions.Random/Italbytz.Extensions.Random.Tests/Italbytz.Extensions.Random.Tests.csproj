@@ -13,6 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RandomExtensions\RandomExtensions.csproj" />
+    <ProjectReference Include="..\Italbytz.Extensions.Random\Italbytz.Extensions.Random.csproj" />
   </ItemGroup>
 </Project>

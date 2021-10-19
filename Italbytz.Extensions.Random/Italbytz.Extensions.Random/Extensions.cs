@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RandomExtensions
+namespace Italbytz.Extensions
 {
     public static class Extensions
     {
